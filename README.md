@@ -1,6 +1,21 @@
 # PostgreSQL-NodeJs-Rest-Api
 _Rest Api created with NodeJs using the postgresql database_
 
-## Screenshot 📌
-_This screenshot belongs to the tests carried out to the postman application._
-![alt text](https://github.com/franciscopugh/PostgreSQL-Nodejs-Rest-Api/blob/master/docs/capture.png)
+### Pre Requirements 📋
+
+```
+npm i express pg
+```
+
+```
+npm i nodemon -D
+```
+## Running the tests ⌨️
+
+```
+- npm run dev
+```
+_Then go to your browser and put in the search engine:_
+```
+localhost: 3000
+```
